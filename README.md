@@ -18,7 +18,7 @@ This is a simple calculator Android application built using Kotlin. The app allo
 
 ### UI Design
 
-<img src="./screenshots/Screenshot_20240817_220336.png" alt="Screenshot_20240817_220336" style="zoom:25%;" />
+<img src="./screenshots/Screenshot_20240817_220336.png" alt="Screenshot_20240817_220336" width="320px">
 
 ## Installation
 
